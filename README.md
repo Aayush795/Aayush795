@@ -1,6 +1,8 @@
 ## Aayush Gupta
+<!-- 
+![DP](https://media-exp1.licdn.com/dms/image/C4E03AQEZWrPI1yn5rA/profile-displayphoto-shrink_800_800/0/1594225880151?e=1652918400&v=beta&t=NZlv4sm7ItCy8QQs7jG_Ei_swnFoQR1oW3rWHZ71KSw) -->
 
-![DP](https://media-exp1.licdn.com/dms/image/C4E03AQEZWrPI1yn5rA/profile-displayphoto-shrink_800_800/0/1594225880151?e=1652918400&v=beta&t=NZlv4sm7ItCy8QQs7jG_Ei_swnFoQR1oW3rWHZ71KSw)
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEZWrPI1yn5rA/profile-displayphoto-shrink_800_800/0/1594225880151?e=1652918400&v=beta&t=NZlv4sm7ItCy8QQs7jG_Ei_swnFoQR1oW3rWHZ71KSw" width="100" height="100">
 
 ## Welcome to Aayush Gupta's Page
 You can use the [editor on GitHub](https://github.com/Aayush795/Aayush795/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
