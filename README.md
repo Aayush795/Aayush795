@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Aayush Gupta's Page
 
 You can use the [editor on GitHub](https://github.com/Aayush795/Aayush795/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,9 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and !(src)
 <!-- /``` -->
-
+[Image](https://media-exp1.licdn.com/dms/image/C4E03AQEZWrPI1yn5rA/profile-displayphoto-shrink_800_800/0/1594225880151?e=1652918400&v=beta&t=NZlv4sm7ItCy8QQs7jG_Ei_swnFoQR1oW3rWHZ71KSw)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
