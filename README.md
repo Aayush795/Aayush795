@@ -1,5 +1,6 @@
-## Welcome to Aayush Gupta's Page
+![DP](https://media-exp1.licdn.com/dms/image/C4E03AQEZWrPI1yn5rA/profile-displayphoto-shrink_800_800/0/1594225880151?e=1652918400&v=beta&t=NZlv4sm7ItCy8QQs7jG_Ei_swnFoQR1oW3rWHZ71KSw = 250*250)
 
+## Welcome to Aayush Gupta's Page
 You can use the [editor on GitHub](https://github.com/Aayush795/Aayush795/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
